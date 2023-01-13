@@ -26,7 +26,7 @@
 </div>
 </div>
 </div>
-<div align=center>BTS, Son, Bong, HYEJINKI let's go!!!!!</div>
+<div align=center>BTS, Son, Bong, HYEJINKI let's go😎</div>
 
 
 <!--
