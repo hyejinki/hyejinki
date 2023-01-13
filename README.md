@@ -7,7 +7,7 @@
 
 
 
-<div align=center><h5> 💻Tech <h5/></div>
+<div align=center><h5> 💻Skills <h5/></div>
 
 <div align=center> <img src="https://img.shields.io/badge/C language-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/>
