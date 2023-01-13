@@ -3,8 +3,7 @@
 
 
 
-
-<div align=center> <h1> Hi, I'm @Hyejinki. </h1> </div>
+<div align=center> <h1>  Hi, I'm @Hyejinki.<img src= "https://user-images.githubusercontent.com/122454567/212243179-4b0089ec-ee2a-4a15-9719-81bded91af9a.PNG" width="100" height ="100"/> </h1> </div> 
 
 <br/>
 
