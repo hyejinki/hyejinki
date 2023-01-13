@@ -3,7 +3,7 @@
 
 
 
-<div align=center> <h2>  Hi, I'm Hyejin.<img src= "https://user-images.githubusercontent.com/122454567/212243179-4b0089ec-ee2a-4a15-9719-81bded91af9a.PNG" width="100" height ="100"/> </h2> </div> 
+<div align=center> <h2>  Hi, I'm Hyejin.<img src= "https://user-images.githubusercontent.com/122454567/212243179-4b0089ec-ee2a-4a15-9719-81bded91af9a.PNG" width="150" height ="150"/> </h2> </div> 
 
 
 
