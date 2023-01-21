@@ -2,14 +2,14 @@
 
 
 
-<div align=center></div> 
-<div align=center> <h2> 🌊 Hi, I'm Hyejin.🌊 </h2> <img src= "https://user-images.githubusercontent.com/122454567/212243179-4b0089ec-ee2a-4a15-9719-81bded91af9a.PNG" width="180" height ="180"/> </div> 
+
+<h2> 🌊 Hi, I'm Hyejin.🌊 </h2> <img src= "https://user-images.githubusercontent.com/122454567/212243179-4b0089ec-ee2a-4a15-9719-81bded91af9a.PNG" width="180" height ="180"/> 
 
 
 
-<div align=center><h5> 💻Skills <h5/></div>
+<h5> 💻Skills <h5/>
 
-<div align=center> <img src="https://img.shields.io/badge/C -A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c%2B%2B&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/C -A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c%2B%2B&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/>
   <br/><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/> 
   
@@ -19,7 +19,7 @@
 📫 How to reach me
  
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gamil&logo&link=zlagg23@gmail.com"/> : zlagg23@gmail.com
-</div>
+
 
 
 ---
