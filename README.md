@@ -7,9 +7,9 @@ Hyejin
 
 
 <h5> 💻Skills <h5/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/pringboot-#6DB33F?style=flat&logo=springboot&logoColor=green"/> 
  <img src="https://img.shields.io/badge/C -A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-3178C6?style=flat&logo=c%2B%2B&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=yellow"/>
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <br/><img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/> 
   
 <br/>
